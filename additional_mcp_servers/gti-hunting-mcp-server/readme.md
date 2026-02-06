@@ -26,7 +26,7 @@ A Model Context Protocol (MCP) server that provides integration with Google Thre
 
 2. **Get your GTI API key**:
    - Go to your profile and copy your API key
-
+   
 3. **Set environment variable**:
    ```bash
    # Linux/macOS
